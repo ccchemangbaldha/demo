@@ -1,0 +1,1046 @@
+{
+  "3310944993990557793": {
+    "meta": {
+      "id": "b1",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": null,
+      "type": "paragraph",
+      "seq": 1,
+      "page": 1
+    },
+    "text": "3\nChapter\nTRIGONOMETRIC FUNCTIONS\nv\nA mathematician knows how to solve a problem,\nv\nhe can not solve it. \u2013 MILNE"
+  },
+  "132826378517342540": {
+    "meta": {
+      "id": "b2",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.1",
+      "type": "section_title",
+      "seq": 2,
+      "page": 1
+    },
+    "text": "3.1 Introduction"
+  },
+  "1533413821068191566": {
+    "meta": {
+      "id": "b3",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.1",
+      "type": "paragraph",
+      "seq": 3,
+      "page": 1
+    },
+    "text": "The word \u2018trigonometry\u2019 is derived from the Greek words\n\u2018trigon\u2019 and \u2018metron\u2019 and it means \u2018measuring the sides of\na triangle\u2019. The subject was originally developed to solve\ngeometric problems involving triangles. It was studied by\nsea captains for navigation, surveyor to map out the new\nlands, by engineers and others. Currently, trigonometry is\nused in many areas such as the science of seismology,\ndesigning electric circuits, describing the state of an atom,\npredicting the heights of tides in the ocean, analysing a\nmusical tone and in many other areas.\nIn earlier classes, we have studied the trigonometric\nArya Bhatt\nratios of acute angles as the ratio of the sides of a right (476-550)\nangled triangle. We have also studied the trigonometric identities and application of\ntrigonometric ratios in solving the problems related to heights and distances. In this\nChapter, we will generalise the concept of trigonometric ratios to trigonometric functions\nand study their properties."
+  },
+  "926750841187838160": {
+    "meta": {
+      "id": "b4",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2",
+      "type": "section_title",
+      "seq": 4,
+      "page": 1
+    },
+    "text": "3.2 Angles"
+  },
+  "288569648657689297": {
+    "meta": {
+      "id": "b5",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2",
+      "type": "paragraph",
+      "seq": 5,
+      "page": 2
+    },
+    "text": "Angle is a measure of rotation of a given ray about its initial point. The original ray is\nVertex\nFig 3.1\nReprint 2025-26\n44 MATHEMATICS\ncalled the initial side and the final position of the ray after rotation is called the\nterminal side of the angle. The point of rotation is called the vertex. If the direction of\nrotation is anticlockwise, the angle is said to be positive and if the direction of rotation\nis clockwise, then the angle is negative (Fig 3.1).\nThe measure of an angle is the amount of\nrotation performed to get the terminal side from\nthe initial side. There are several units for\nmeasuring angles. The definition of an angle Fig 3.2\nsuggests a unit, viz. one complete revolution from the position of the initial side as\nindicated in Fig 3.2.\nThis is often convenient for large angles. For example, we can say that a rapidly\nspinning wheel is making an angle of say 15 revolution per second. We shall describe\ntwo other units of measurement of an angle which are most commonly used, viz.\ndegree measure and radian measure.\nth\n\uf8eb 1 \uf8f6"
+  },
+  "4506032039038987389": {
+    "meta": {
+      "id": "b6",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.1",
+      "type": "section_title",
+      "seq": 6,
+      "page": 2
+    },
+    "text": "3.2.1 Degree measure If a rotation from the initial side to terminal side is \uf8ec \uf8f7 of"
+  },
+  "672501077877145719": {
+    "meta": {
+      "id": "b7",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.1",
+      "type": "paragraph",
+      "seq": 7,
+      "page": 3
+    },
+    "text": "\uf8ed360\uf8f8\na revolution, the angle is said to have a measure of one degree, written as 1\u00b0. A degree is\ndivided into 60 minutes, and a minute is divided into 60 seconds . One sixtieth of a degree is\ncalled a minute, written as 1\u2032, and one sixtieth of a minute is called a second, written as 1\u2033.\nThus, 1\u00b0 = 60\u2032, 1\u2032 = 60\u2033\nSome of the angles whose measures are 360\u00b0,180\u00b0, 270\u00b0, 420\u00b0, \u2013 30\u00b0, \u2013 420\u00b0 are\nshown in Fig 3.3.\nFig 3.3\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 45"
+  },
+  "813419823640496490": {
+    "meta": {
+      "id": "b8",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.2",
+      "type": "section_title",
+      "seq": 8,
+      "page": 3
+    },
+    "text": "3.2.2 Radian measure There is another unit for measurement of an angle, called"
+  },
+  "1028572316871127706": {
+    "meta": {
+      "id": "b9",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.2",
+      "type": "paragraph",
+      "seq": 9,
+      "page": 3
+    },
+    "text": "the radian measure. Angle subtended at the centre by an arc of length 1 unit in a\nunit circle (circle of radius 1 unit) is said to have a measure of 1 radian. In the Fig"
+  },
+  "1362812213479256239": {
+    "meta": {
+      "id": "b10",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4(i)",
+      "type": "section_title",
+      "seq": 10,
+      "page": 3
+    },
+    "text": "3.4(i) to (iv), OA is the initial side and OB is the terminal side. The figures show the"
+  },
+  "4211259770575222371": {
+    "meta": {
+      "id": "b11",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4(i)",
+      "type": "paragraph",
+      "seq": 11,
+      "page": 4
+    },
+    "text": "1 1\nangles whose measures are 1 radian, \u20131 radian, 1 radian and \u20131 radian.\n2 2\n(i) (ii)\n(iii)\n(iv)\nFig 3.4 (i) to (iv)\nWe know that the circumference of a circle of radius 1 unit is 2\u03c0. Thus, one\ncomplete revolution of the initial side subtends an angle of 2\u03c0 radian.\nMore generally, in a circle of radius r, an arc of length r will subtend an angle of\n1 radian. It is well-known that equal arcs of a circle subtend equal angle at the centre.\nSince in a circle of radius r, an arc of length r subtends an angle whose measure is 1\nl\nradian, an arc of length l will subtend an angle whose measure is radian. Thus, if in\nr\na circle of radius r, an arc of length l subtends an angle \u03b8 radian at the centre, we have\nl\n\u03b8 = or l = r \u03b8.\nr\nReprint 2025-26\n46 MATHEMATICS\nP"
+  },
+  "3258989396815843298": {
+    "meta": {
+      "id": "b12",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.3",
+      "type": "section_title",
+      "seq": 12,
+      "page": 4
+    },
+    "text": "3.2.3 Relation between radian and real numbers"
+  },
+  "27760754054910395": {
+    "meta": {
+      "id": "b13",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.3",
+      "type": "paragraph",
+      "seq": 13,
+      "page": 4
+    },
+    "text": "2\nConsider the unit circle with centre O. Let A be any point\non the circle. Consider OA as initial side of an angle.\nThen the length of an arc of the circle will give the radian\n1\nmeasure of the angle which the arc will subtend at the\ncentre of the circle. Consider the line PAQ which is\n1 A\ntangent to the circle at A. Let the point A represent the O 0\nreal number zero, AP represents positive real number and\nAQ represents negative real numbers (Fig 3.5). If we\n\u22121\nrope the line AP in the anticlockwise direction along the\ncircle, and AQ in the clockwise direction, then every real\nnumber will correspond to a radian measure and \u22122\nconversely. Thus, radian measures and real numbers can Fig 3.5 Q\nbe considered as one and the same."
+  },
+  "3628256774874025511": {
+    "meta": {
+      "id": "b14",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "section_title",
+      "seq": 14,
+      "page": 4
+    },
+    "text": "3.2.4 Relation between degree and radian Since a circle subtends at the centre"
+  },
+  "3883065737681857837": {
+    "meta": {
+      "id": "b15",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "paragraph",
+      "seq": 15,
+      "page": 5
+    },
+    "text": "an angle whose radian measure is 2\u03c0 and its degree measure is 360\u00b0, it follows that\n2\u03c0 radian = 360\u00b0 or \u03c0 radian = 180\u00b0\nThe above relation enables us to express a radian measure in terms of degree\nmeasure and a degree measure in terms of radian measure. Using approximate value\n22\nof \u03c0 as , we have\n7\n180\u00b0\n1 radian = = 57\u00b0 16\u2032 approximately.\n\u03c0\n\u03c0\nAlso 1\u00b0 = radian = 0.01746 radian approximately.\n180\nThe relation between degree measures and radian measure of some common angles\nare given in the following table:\nDegree 30\u00b0 45\u00b0 60\u00b0 90\u00b0 180\u00b0 270\u00b0 360\u00b0\n\u03c0 \u03c0 \u03c0 \u03c0 3\u03c0\nRadian \u03c0 2\u03c0\n6 4 3 2 2\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 47\nNotational Convention\nSince angles are measured either in degrees or in radians, we adopt the convention\nthat whenever we write angle \u03b8\u00b0, we mean the angle whose degree measure is \u03b8 and\nwhenever we write angle \u03b2, we mean the angle whose radian measure is \u03b2.\nNote that when an angle is expressed in radians, the word \u2018radian\u2019 is frequently\n\u03c0 \u03c0\nomitted. Thus, \u03c0=180\u00b0and =45\u00b0 are written with the understanding that \u03c0 and\n4 4\nare radian measures. Thus, we can say that\n\u03c0\nRadian measure = \u00d7Degree measure\n180\n180\nDegree measure = \u00d7Radian measure\n\u03c0"
+  },
+  "3924885947494293891": {
+    "meta": {
+      "id": "b16",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "example_title",
+      "seq": 16,
+      "page": 5
+    },
+    "text": "Example 1 Convert 40\u00b0 20\u2032 into radian measure."
+  },
+  "844324998527686271": {
+    "meta": {
+      "id": "b17",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "example_body",
+      "seq": 17,
+      "page": 5
+    },
+    "text": "Solution We know that 180\u00b0 = \u03c0 radian.\n1 \u03c0 121 121\u03c0\nHence 40\u00b0 20\u2032 = 40 degree = \u00d7 radian = radian.\n3 180 3 540\n121\u03c0\nTherefore 40\u00b0 20\u2032 = radian.\n540"
+  },
+  "1921905620975262239": {
+    "meta": {
+      "id": "b18",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "example_title",
+      "seq": 18,
+      "page": 5
+    },
+    "text": "Example 2 Convert 6 radians into degree measure."
+  },
+  "2598251016444186420": {
+    "meta": {
+      "id": "b19",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "example_body",
+      "seq": 19,
+      "page": 5
+    },
+    "text": "Solution We know that \u03c0 radian = 180\u00b0.\n180 1080\u00d77\nHence 6 radians = \u00d76 degree = degree\n\u03c0 22\n7 7\u00d760\n= 343 degree = 343\u00b0 + minute [as 1\u00b0 = 60\u2032]\n11 11\n2\n= 343\u00b0 + 38\u2032 + minute [as 1\u2032 = 60\u2033]\n11\n= 343\u00b0 + 38\u2032 + 10.9\u2033 = 343\u00b038\u2032 11\u2033 approximately.\nHence 6 radians = 343\u00b0 38\u2032 11\u2033 approximately."
+  },
+  "1801273822214763694": {
+    "meta": {
+      "id": "b20",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "example_title",
+      "seq": 20,
+      "page": 5
+    },
+    "text": "Example 3 Find the radius of the circle in which a central angle of 60\u00b0 intercepts an"
+  },
+  "580680295061572430": {
+    "meta": {
+      "id": "b21",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.2.4",
+      "type": "example_body",
+      "seq": 21,
+      "page": 6
+    },
+    "text": "22\narc of length 37.4 cm (use \u03c0= ).\n7\nReprint 2025-26\n48 MATHEMATICS\n60\u03c0 \u03c0\nSolution Here l = 37.4 cm and \u03b8 = 60\u00b0 = radian =\n180 3\nl\nHence, by r = , we have\n\u03b8"
+  },
+  "3193051128853419404": {
+    "meta": {
+      "id": "b22",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "section_title",
+      "seq": 22,
+      "page": 6
+    },
+    "text": "37.4\u00d73 37.4\u00d73\u00d77"
+  },
+  "1049255818445291723": {
+    "meta": {
+      "id": "b23",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "paragraph",
+      "seq": 23,
+      "page": 6
+    },
+    "text": "r = = = 35.7 cm\n\u03c0 22"
+  },
+  "2854384109387627947": {
+    "meta": {
+      "id": "b24",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "example_title",
+      "seq": 24,
+      "page": 6
+    },
+    "text": "Example 4 The minute hand of a watch is 1.5 cm long. How far does its tip move in"
+  },
+  "2987446621816473145": {
+    "meta": {
+      "id": "b25",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "example_body",
+      "seq": 25,
+      "page": 6
+    },
+    "text": "40 minutes? (Use \u03c0 = 3.14).\nSolution In 60 minutes, the minute hand of a watch completes one revolution. Therefore,\n2 2\nin 40 minutes, the minute hand turns through of a revolution. Therefore, \u03b8 = \u00d7360\u00b0\n3 3\n4\u03c0\nor radian. Hence, the required distance travelled is given by\n3\n4\u03c0\nl = r \u03b8 = 1.5 \u00d7 cm = 2\u03c0 cm = 2 \u00d73.14 cm = 6.28 cm.\n3"
+  },
+  "2437393219889609802": {
+    "meta": {
+      "id": "b26",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "example_title",
+      "seq": 26,
+      "page": 6
+    },
+    "text": "Example 5 If the arcs of the same lengths in two circles subtend angles 65\u00b0and 110\u00b0"
+  },
+  "1423839081855005964": {
+    "meta": {
+      "id": "b27",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "example_body",
+      "seq": 27,
+      "page": 6
+    },
+    "text": "at the centre, find the ratio of their radii.\nSolution Let r and r be the radii of the two circles. Given that\n1 2\n\u03c0 13\u03c0\n\u03b8 = 65\u00b0 = \u00d765 = radian\n1 180 36\n\u03c0 22\u03c0\nand \u03b8 = 110\u00b0 = \u00d7110 = radian\n2 180 36\nLet l be the length of each of the arc. Then l = r \u03b8 = r \u03b8 , which gives\n1 1 2 2\n13\u03c0 22\u03c0 r 22\n1\n\u00d7r = \u00d7r , i.e., =\n36 1 36 2 r 13\n2\nHence r : r = 22 : 13.\n1 2"
+  },
+  "1440656493523051165": {
+    "meta": {
+      "id": "b28",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "exercise_title",
+      "seq": 28,
+      "page": 6
+    },
+    "text": "EXERCISE 3.1"
+  },
+  "3073185485753571635": {
+    "meta": {
+      "id": "b29",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "37.4\u00d73",
+      "type": "exercise",
+      "seq": 29,
+      "page": 7
+    },
+    "text": "1. Find the radian measures corresponding to the following degree measures:\n(i) 25\u00b0 (ii) \u2013 47\u00b030\u2032 (iii) 240\u00b0 (iv) 520\u00b0\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 49\n2. Find the degree measures corresponding to the following radian measures\n22\n(Use \u03c0= ).\n7\n11 5\u03c0 7\u03c0\n(i) (ii) \u2013 4 (iii) (iv)\n16 3 6\n3. A wheel makes 360 revolutions in one minute. Through how many radians does\nit turn in one second?\n4. Find the degree measure of the angle subtended at the centre of a circle of\n22\nradius 100 cm by an arc of length 22 cm (Use \u03c0 = ).\n7\n5. In a circle of diameter 40 cm, the length of a chord is 20 cm. Find the length of\nminor arc of the chord.\n6. If in two circles, arcs of the same length subtend angles 60\u00b0 and 75\u00b0 at the\ncentre, find the ratio of their radii.\n7. Find the angle in radian through which a pendulum swings if its length is 75 cm\nand the tip describes an arc of length\n(i) 10 cm (ii) 15 cm (iii) 21 cm"
+  },
+  "3273672578688964785": {
+    "meta": {
+      "id": "b30",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3",
+      "type": "section_title",
+      "seq": 30,
+      "page": 7
+    },
+    "text": "3.3 Trigonometric Functions"
+  },
+  "2026444915197789717": {
+    "meta": {
+      "id": "b31",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3",
+      "type": "paragraph",
+      "seq": 31,
+      "page": 9
+    },
+    "text": "In earlier classes, we have studied trigonometric ratios for acute angles as the ratio of\nsides of a right angled triangle. We will now extend the definition of trigonometric\nratios to any angle in terms of radian measure and study them as trigonometric functions.\nConsider a unit circle with centre\nat origin of the coordinate axes. Let\nP (a, b) be any point on the circle with\nangle AOP = x radian, i.e., length of arc\nAP = x (Fig 3.6).\nWe define cos x = a and sin x = b\nSince \u2206OMP is a right triangle, we have\nOM2 + MP2 = OP2 or a2 + b2 = 1\nThus, for every point on the unit circle,\nwe have\na2 + b2 = 1 or cos2 x + sin2 x = 1\nSince one complete revolution\nsubtends an angle of 2\u03c0 radian at the\n\u03c0\ncentre of the circle, \u2220AOB = , Fig 3.6\n2\nReprint 2025-26\n50 MATHEMATICS\n3\u03c0 \u03c0\n\u2220AOC = \u03c0 and \u2220AOD = . All angles which are integral multiples of are called\n2 2\nquadrantal angles. The coordinates of the points A, B, C and D are, respectively,\n(1, 0), (0, 1), (\u20131, 0) and (0, \u20131). Therefore, for quadrantal angles, we have\ncos 0\u00b0= 1 sin 0\u00b0 = 0,\n\u03c0 \u03c0\ncos = 0 sin = 1\n2 2\ncos\u03c0= \u2212 1 sin\u03c0 = 0\n3\u03c0 3\u03c0\ncos = 0 sin = \u20131\n2 2\ncos 2\u03c0= 1 sin 2\u03c0 = 0\nNow, if we take one complete revolution from the point P, we again come back to\nsame point P. Thus, we also observe that if x increases (or decreases) by any integral\nmultiple of 2\u03c0, the values of sine and cosine functions do not change. Thus,\nsin (2n\u03c0 + x) = sinx, n \u2208 Z , cos (2n\u03c0 + x) = cosx, n \u2208 Z\nFurther, sin x = 0, if x = 0, \u00b1 \u03c0, \u00b1 2\u03c0 , \u00b1 3\u03c0, ..., i.e., when x is an integral multiple of \u03c0\n\u03c0 3\u03c0 5\u03c0\nand cos x = 0, if x = \u00b1 , \u00b1 , \u00b1 , ... i.e., cos x vanishes when x is an odd\n2 2 2\n\u03c0\nmultiple of . Thus\n2\nsin x = 0 implies x = n\u03c0\u03c0\u03c0\u03c0\u03c0,,,,, where n is any integer\n\u03c0\ncos x = 0 implies x = (2n + 1) , where n is any integer.\n2\nWe now define other trigonometric functions in terms of sine and cosine functions:\n1\ncosec x = , x \u2260 n\u03c0, where n is any integer.\nsinx\n1 \u03c0\nsec x = , x \u2260 (2n + 1) , where n is any integer.\ncosx 2\nsinx \u03c0\ntan x = , x \u2260 (2n +1) , where n is any integer.\ncosx 2\ncosx\ncot x = , x \u2260 n \u03c0, where n is any integer.\nsinx\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 51\nWe have shown that for all real x, sin2 x + cos2 x = 1\nIt follows that\n1 + tan2 x = sec2 x (why?)\n1 + cot2 x = cosec2 x (why?)\nIn earlier classes, we have discussed the values of trigonometric ratios for 0\u00b0,\n30\u00b0, 45\u00b0, 60\u00b0 and 90\u00b0. The values of trigonometric functions for these angles are same\nas that of trigonometric ratios studied in earlier classes. Thus, we have the following\ntable:\n\u03c0 \u03c0 \u03c0 \u03c0 3\u03c0\n0\u00b0 \u03c0 2\u03c0\n6 4 3 2 2\n1 1 3\nsin 0 1 0 \u2013 1 0\n2 2 2\n3 1 1\ncos 1 0 \u2013 1 0 1\n2 2 2\n1 not not\ntan 0 1 3 0 0\n3 defined defined\nThe values of cosec x, sec x and cot x\nare the reciprocal of the values of sin x,\ncos x and tan x, respectively."
+  },
+  "3884560228075414955": {
+    "meta": {
+      "id": "b32",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.1",
+      "type": "section_title",
+      "seq": 32,
+      "page": 9
+    },
+    "text": "3.3.1 Sign of trigonometric functions"
+  },
+  "4055532150392950215": {
+    "meta": {
+      "id": "b33",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.1",
+      "type": "paragraph",
+      "seq": 33,
+      "page": 10
+    },
+    "text": "Let P (a, b) be a point on the unit circle\nwith centre at the origin such that\n\u2220AOP = x. If \u2220AOQ = \u2013 x, then the\ncoordinates of the point Q will be (a, \u2013b)\n(Fig 3.7). Therefore\ncos (\u2013 x) = cos x\nand sin (\u2013 x) = \u2013 sin x\nSince for every point P (a, b) on\nthe unit circle, \u2013 1 \u2264 a \u2264 1 and Fig 3.7\nReprint 2025-26\n52 MATHEMATICS\n\u2013 1 \u2264 b \u2264 1, we have \u2013 1 \u2264 cos x \u2264 1 and \u20131 \u2264 sin x \u2264 1 for all x. We have learnt in\n\u03c0\nprevious classes that in the first quadrant (0 < x < ) a and b are both positive, in the\n2\n\u03c0\nsecond quadrant ( < x <\u03c0) a is negative and b is positive, in the third quadrant\n2\n3\u03c0 3\u03c0\n(\u03c0 < x < ) a and b are both negative and in the fourth quadrant ( < x < 2\u03c0) a is\n2 2\npositive and b is negative. Therefore, sin x is positive for 0 < x < \u03c0, and negative for\n\u03c0 \u03c0 3\u03c0\n\u03c0 < x < 2\u03c0. Similarly, cos x is positive for 0 < x < , negative for < x < and also\n2 2 2\n3\u03c0\npositive for < x < 2\u03c0. Likewise, we can find the signs of other trigonometric\n2\nfunctions in different quadrants. In fact, we have the following table.\nI II III IV\nsin x + + \u2013 \u2013\ncos x + \u2013 \u2013 +\ntan x + \u2013 + \u2013\ncosec x + + \u2013 \u2013\nsec x + \u2013 \u2013 +\ncot x + \u2013 + \u2013"
+  },
+  "871411062417851984": {
+    "meta": {
+      "id": "b34",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "section_title",
+      "seq": 34,
+      "page": 10
+    },
+    "text": "3.3.2 Domain and range of trigonometric functions From the definition of sine"
+  },
+  "4500259977924393042": {
+    "meta": {
+      "id": "b35",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "paragraph",
+      "seq": 35,
+      "page": 13
+    },
+    "text": "and cosine functions, we observe that they are defined for all real numbers. Further,\nwe observe that for each real number x,\n\u2013 1 \u2264 sin x \u2264 1 and \u2013 1 \u2264 cos x \u2264 1\nThus, domain of y = sin x and y = cos x is the set of all real numbers and range\nis the interval [\u20131, 1], i.e., \u2013 1 \u2264 y \u2264 1.\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 53\n1\nSince cosec x = , the domain of y = cosec x is the set { x : x \u2208 R and\nsinx\nx \u2260 n \u03c0, n \u2208 Z} and range is the set {y : y \u2208 R, y \u2265 1 or y \u2264 \u2013 1}. Similarly, the domain\n\u03c0\nof y = sec x is the set {x : x \u2208 R and x \u2260 (2n + 1) , n \u2208 Z} and range is the set\n2\n{y : y \u2208 R, y \u2264 \u2013 1or y \u2265 1}. The domain of y = tan x is the set {x : x \u2208 R and\n\u03c0\nx \u2260 (2n + 1) , n \u2208 Z} and range is the set of all real numbers. The domain of\n2\ny = cot x is the set {x : x \u2208 R and x \u2260 n \u03c0, n \u2208 Z} and the range is the set of all real\nnumbers.\n\u03c0\nWe further observe that in the first quadrant, as x increases from 0 to , sin x\n2\n\u03c0\nincreases from 0 to 1, as x increases from to \u03c0, sin x decreases from 1 to 0. In the\n2\n3\u03c0\nthird quadrant, as x increases from \u03c0 to , sin x decreases from 0 to \u20131and finally, in\n2\n3\u03c0\nthe fourth quadrant, sin x increases from \u20131 to 0 as x increases from to 2\u03c0.\n2\nSimilarly, we can discuss the behaviour of other trigonometric functions. In fact, we\nhave the following table:\nI quadrant II quadrant III quadrant IV quadrant\nsin increases from 0 to 1 decreases from 1 to 0 decreases from 0 to \u20131 increases from \u20131 to 0\ncos decreases from 1 to 0 decreases from 0 to \u2013 1 increases from \u20131 to 0 increases from 0 to 1\ntan increases from 0 to \u221e increases from \u2013\u221eto 0 increases from 0 to \u221e increases from \u2013\u221eto 0\ncot decreases from \u221e to 0 decreases from 0 to\u2013\u221e decreases from \u221e to 0 decreases from 0to \u2013\u221e\nsec increases from 1 to \u221e increases from \u2013\u221eto\u20131 decreases from \u20131to\u2013\u221e decreases from \u221e to 1\ncosec decreases from \u221e to 1 increases from 1 to \u221e increases from \u2013\u221eto\u20131 decreases from\u20131to\u2013\u221e\nRemark In the above table, the statement tan x increases from 0 to \u221e (infinity) for\n\u03c0 \u03c0\n0 < x < simply means that tan x increases as x increases for 0 < x < and\n2 2\nReprint 2025-26\n54 MATHEMATICS\n\u03c0\nassumes arbitraily large positive values as x approaches to . Similarly, to say that\n2\ncosec x decreases from \u20131 to \u2013 \u221e (minus infinity) in the fourth quadrant means that\n3\u03c0\ncosec x decreases for x \u2208 ( , 2\u03c0) and assumes arbitrarily large negative values as\n2\nx approaches to 2\u03c0. The symbols \u221e and \u2013 \u221e simply specify certain types of behaviour\nof functions and variables.\nWe have already seen that values of sin x and cos x repeats after an interval of\n2\u03c0. Hence, values of cosec x and sec x will also repeat after an interval of 2\u03c0. We\nFig 3.8\nFig 3.9\nFig 3.10 Fig 3.11\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 55\nFig 3.12 Fig 3.13\nshall see in the next section that tan (\u03c0 + x) = tan x. Hence, values of tan x will repeat\nafter an interval of \u03c0. Since cot x is reciprocal of tan x, its values will also repeat after\nan interval of \u03c0. Using this knowledge and behaviour of trigonometic functions, we can\nsketch the graph of these functions. The graph of these functions are given above:\n3"
+  },
+  "752209345941670967": {
+    "meta": {
+      "id": "b36",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_title",
+      "seq": 36,
+      "page": 13
+    },
+    "text": "Example 6 If cos x = \u2013 , x lies in the third quadrant, find the values of other five"
+  },
+  "285054634690220853": {
+    "meta": {
+      "id": "b37",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_body",
+      "seq": 37,
+      "page": 14
+    },
+    "text": "5\ntrigonometric functions.\n3 5\nSolution Since cos x = \u2212 , we have sec x = \u2212\n5 3\nNow sin2 x + cos2 x = 1, i.e., sin2 x = 1 \u2013 cos2 x\n9 16\nor sin2 x = 1 \u2013 =\n25 25\n4\nHence sin x = \u00b1\n5\nSince x lies in third quadrant, sin x is negative. Therefore\n4\nsin x = \u2013\n5\nwhich also gives\n5\ncosec x = \u2013\n4\nReprint 2025-26\n56 MATHEMATICS\nFurther, we have\nsinx 4 cosx 3\ntan x = = and cot x = = .\ncosx 3 sinx 4\n5"
+  },
+  "1301817709520341066": {
+    "meta": {
+      "id": "b38",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_title",
+      "seq": 38,
+      "page": 14
+    },
+    "text": "Example 7 If cot x = \u2013 , x lies in second quadrant, find the values of other five"
+  },
+  "187548446687102256": {
+    "meta": {
+      "id": "b39",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_body",
+      "seq": 39,
+      "page": 14
+    },
+    "text": "12\ntrigonometric functions.\n5 12\nSolution Since cot x = \u2013 , we have tan x = \u2013\n12 5\n144 169\nNow sec2 x =1 + tan2 x = 1 + =\n25 25\n13\nHence sec x =\u00b1\n5\nSince x lies in second quadrant, sec x will be negative. Therefore\n13\nsec x =\u2013 ,\n5\nwhich also gives\n5\ncosx = \u2212\n13\nFurther, we have\n12 5 12\nsin x = tan x cos x = (\u2013 ) \u00d7(\u2013 ) =\n5 13 13\n1 13\nand cosec x = = .\nsinx 12\n31\u03c0"
+  },
+  "3486982148377122654": {
+    "meta": {
+      "id": "b40",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_title",
+      "seq": 40,
+      "page": 14
+    },
+    "text": "Example 8 Find the value of sin ."
+  },
+  "3588902996930683229": {
+    "meta": {
+      "id": "b41",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_body",
+      "seq": 41,
+      "page": 15
+    },
+    "text": "3\nSolution We know that values of sin x repeats after an interval of 2\u03c0. Therefore\n31\u03c0 \u03c0 \u03c0 3\nsin = sin (10\u03c0 + ) = sin = .\n3 3 3 2\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 57"
+  },
+  "1150705208328928867": {
+    "meta": {
+      "id": "b42",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_title",
+      "seq": 42,
+      "page": 15
+    },
+    "text": "Example 9 Find the value of cos (\u20131710\u00b0)."
+  },
+  "3652849071501558217": {
+    "meta": {
+      "id": "b43",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "example_body",
+      "seq": 43,
+      "page": 15
+    },
+    "text": "Solution We know that values of cos x repeats after an interval of 2\u03c0 or 360\u00b0.\nTherefore, cos (\u20131710\u00b0) = cos (\u20131710\u00b0 + 5 \u00d7360\u00b0)\n= cos (\u20131710\u00b0 + 1800\u00b0) = cos 90\u00b0 = 0."
+  },
+  "3618989621521168693": {
+    "meta": {
+      "id": "b44",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "exercise_title",
+      "seq": 44,
+      "page": 15
+    },
+    "text": "EXERCISE 3.2"
+  },
+  "2084654685197263892": {
+    "meta": {
+      "id": "b45",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.3.2",
+      "type": "exercise",
+      "seq": 45,
+      "page": 15
+    },
+    "text": "Find the values of other five trigonometric functions in Exercises 1 to 5.\n1\n1. cos x = \u2013 , x lies in third quadrant.\n2\n3\n2. sin x = , x lies in second quadrant.\n5\n3\n3. cot x = , x lies in third quadrant.\n4\n13\n4. sec x = , x lies in fourth quadrant.\n5\n5\n5. tan x = \u2013 , x lies in second quadrant.\n12\nFind the values of the trigonometric functions in Exercises 6 to 10.\n6. sin 765\u00b0 7. cosec (\u2013 1410\u00b0)\n19\u03c0 11\u03c0\n8. tan 9. sin (\u2013 )\n3 3\n15\u03c0\n10. cot (\u2013 )\n4"
+  },
+  "571923049251472595": {
+    "meta": {
+      "id": "b46",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "section_title",
+      "seq": 46,
+      "page": 15
+    },
+    "text": "3.4 Trigonometric Functions of Sum and Difference of Two Angles"
+  },
+  "3877924165956575945": {
+    "meta": {
+      "id": "b47",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "paragraph",
+      "seq": 47,
+      "page": 22,
+      "chunk_start_word": 0
+    },
+    "text": "In this Section, we shall derive expressions for trigonometric functions of the sum and difference of two numbers (angles) and related expressions. The basic results in this connection are called trigonometric identities. We have seen that 1. sin (\u2013 x) = \u2013 sin x 2. cos (\u2013 x) = cos x We shall now prove some more results: Reprint 2025-26 58 MATHEMATICS 3. cos (x + y) = cos x cos y \u2013 sin x sin y Consider the unit circle with centre at the origin. Letx be the angle P OP and y be 4 1 the angle P OP . Then (x + y) is the angle P OP . Also let (\u2013 y) be the angle P OP . 1 2 4 2 4 3 Therefore, P , P , P and P will have the coordinates P (cos x, sin x), 1 2 3 4 1 P [cos (x + y), sin (x + y)], P [cos (\u2013 y), sin (\u2013 y)] and P (1, 0) (Fig 3.14). 2 3 4 Fig 3.14 Consider the triangles P OP and P OP . They are congruent (Why?). Therefore, 1 3 2 4 P P and P P are equal. By using distance formula, we get 1 3 2 4 P P 2 = [cos x \u2013 cos (\u2013 y)]2 + [sin x \u2013 sin(\u2013y]2 1 3 = (cos x \u2013 cos y)2 + (sin x + sin y)2 = cos2 x + cos2 y \u2013 2 cos x cos y + sin2 x + sin2 y + 2sin x sin y = 2 \u2013 2 (cos x cos y \u2013 sin x sin y) (Why?) Also, P P 2 = [1 \u2013 cos (x + y)] 2 + [0 \u2013 sin (x + y)]2 2 4 = 1 \u2013 2cos (x + y) + cos2 (x + y) + sin2 (x + y) = 2 \u2013 2 cos (x + y) Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 59 Since P P = P P , we have P P 2 = P P 2. 1 3 2 4 1 3 2 4 Therefore, 2 \u20132 (cos x cos y \u2013 sin x sin y) = 2 \u2013 2 cos (x + y). Hence cos (x + y) = cos x cos y \u2013 sin x sin y 4. cos (x \u2013 y) = cos x cos y + sin x sin y Replacing y by \u2013 y in identity 3, we get cos (x + (\u2013 y)) = cos x cos (\u2013 y) \u2013 sin x sin (\u2013 y) or cos (x \u2013 y) = cos x cos y + sin x sin y \u03c0 5. cos ( \u2013 x) = sin x 2 \u03c0 If we replace x by and y by x in Identity (4), we get 2 \u03c0 \u03c0 \u03c0 cos ( \u2212x) = cos cos x + sin sin x = sin x. 2 2 2 \u03c0 6. sin ( \u2013 x) = cos x 2 Using the Identity 5, we have \u03c0 \uf8ee\u03c0 \uf8eb\u03c0 \uf8f6\uf8f9 sin ( \u2212x) = cos \uf8ef \u2212\uf8ec \u2212x\uf8f7\uf8fa = cos x. 2 \uf8f02 \uf8ed2 \uf8f8\uf8fb 7. sin (x + y) = sin x cos y + cos x sin y We know that \uf8eb\u03c0 \uf8f6 \uf8eb \u03c0 \uf8f6 sin (x + y) = cos \uf8ec \u2212(x+ y)\uf8f7 = cos \uf8ec( \u2212x)\u2212 y\uf8f7 \uf8ed2 \uf8f8 \uf8ed 2 \uf8f8 \u03c0 \u03c0 = cos ( \u2212x) cos y + sin ( \u2212x)sin y 2 2 = sin x cos y + cos x sin y 8. sin (x \u2013 y) = sin x cos y \u2013 cos x sin y If we replace y by \u2013y, in the Identity 7, we get the result. 9. By taking suitable values of x and y in the identities 3, 4, 7 and 8, we get the following results: \u03c0 \u03c0 cos ( +x) = \u2013 sin x sin ( +x) = cos x 2 2 cos (\u03c0\u03c0\u03c0\u03c0\u03c0 \u2013 x) = \u2013 cos x sin (\u03c0\u03c0\u03c0\u03c0\u03c0 \u2013 x) = sin x Reprint 2025-26 60 MATHEMATICS cos (\u03c0\u03c0\u03c0\u03c0\u03c0 + x) = \u2013 cos x sin (\u03c0\u03c0\u03c0\u03c0\u03c0 + x) = \u2013 sin x cos (2\u03c0\u03c0\u03c0\u03c0\u03c0 \u2013 x)"
+  },
+  "981174281645663579": {
+    "meta": {
+      "id": "b47",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "paragraph",
+      "seq": 47,
+      "page": 22,
+      "chunk_start_word": 580
+    },
+    "text": "y 2 2 = sin x cos y + cos x sin y 8. sin (x \u2013 y) = sin x cos y \u2013 cos x sin y If we replace y by \u2013y, in the Identity 7, we get the result. 9. By taking suitable values of x and y in the identities 3, 4, 7 and 8, we get the following results: \u03c0 \u03c0 cos ( +x) = \u2013 sin x sin ( +x) = cos x 2 2 cos (\u03c0\u03c0\u03c0\u03c0\u03c0 \u2013 x) = \u2013 cos x sin (\u03c0\u03c0\u03c0\u03c0\u03c0 \u2013 x) = sin x Reprint 2025-26 60 MATHEMATICS cos (\u03c0\u03c0\u03c0\u03c0\u03c0 + x) = \u2013 cos x sin (\u03c0\u03c0\u03c0\u03c0\u03c0 + x) = \u2013 sin x cos (2\u03c0\u03c0\u03c0\u03c0\u03c0 \u2013 x) = cos x sin (2\u03c0\u03c0\u03c0\u03c0\u03c0 \u2013 x) = \u2013 sin x Similar results for tan x, cot x, sec x and cosec x can be obtained from the results of sin x and cos x. \u03c0 10. If none of the angles x, y and (x + y) is an odd multiple of , then 2 tan x+tan y tan (x + y) = 1\u2013tan xtan y \u03c0 Since none of the x, y and (x + y) is an odd multiple of , it follows that cos x, 2 cos y and cos (x + y) are non-zero. Now sin(x+ y) sinxcosy+cosxsiny tan (x + y) = = . cos(x+ y) cosxcosy\u2212sinxsiny Dividing numerator and denominator by cos x cos y, we have sinxcosy cosxsin y + cosxcosy cosxcosy tan (x + y) = cosxcosy sinxsin y \u2212 cosxcosy cosxcosy tanx+tany = 1\u2013tanxtany tan x\u2013tan y 11. tan ( x \u2013 y)= 1+tan xtan y If we replace y by \u2013 y in Identity 10, we get tan (x \u2013 y) = tan [x + (\u2013 y)] tanx+tan(\u2212y) tanx\u2212tany = = 1\u2212tanxtan(\u2212y) 1+tanxtany 12. If none of the angles x, y and (x + y) is a multiple of \u03c0\u03c0\u03c0\u03c0\u03c0, then cotxcot y\u20131 cot ( x + y) = cot y+cotx Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 61 Since, none of the x, y and (x + y) is multiple of \u03c0, we find that sin x sin y and sin (x + y) are non-zero. Now, cos(x+ y) cosxcos y \u2013sin xsin y cot ( x + y)= = sin(x+ y) sin xcos y+cos xsin y Dividing numerator and denominator by sin x sin y, we have cotxcoty\u20131 cot (x + y) = coty+cotx cotxcot y+1 13. cot (x \u2013 y)= if none of angles x, y and x\u2013y is a multiple of \u03c0 cot y \u2013cotx If we replace y by \u2013y in identity 12, we get the result 1\u2013tan2x 14. cos 2x = cos2x \u2013 sin2 x = 2 cos2 x \u2013 1 = 1 \u2013 2 sin2 x = 1+tan2x We know that cos (x + y) = cos x cos y \u2013 sin x sin y Replacing y by x, we get cos 2x =cos2x \u2013 sin2 x =cos2x \u2013 (1 \u2013 cos2 x) = 2 cos2x \u2013 1 Again, cos 2x =cos2 x \u2013 sin2 x =1 \u2013 sin2 x \u2013 sin2 x = 1 \u2013 2 sin2x. cos2 x\u2212sin2x We have cos 2x =cos2 x \u2013 sin 2 x = cos2 x+sin2 x Dividing numerator and denominator by cos2 x, we get 1\u2013tan2x \u03c0 cos 2x = , x\u2260n\u03c0+ , where n is an integer 1+tan2x 2 2tan x \u03c0 15. sin 2x = 2 sinx cos x = x\u2260n\u03c0+ , where n is an integer 1+tan2 x 2 We have sin (x + y) = sin x cos y + cos x sin y Replacing y by x, we get sin 2x = 2 sin x cos x. 2sinxcosx Again sin 2x = cos2 x+sin2x Reprint 2025-26 62 MATHEMATICS Dividing each term by cos2 x, we get 2tanx sin 2x = 1+tan2x 2tanx \u03c0 16. tan 2x = if 2x\u2260n\u03c0+ , where n is an integer 1\u2013tan2 x 2 We know that tanx+tany tan (x + y) = 1\u2013tanxtany 2 tanx Replacing y by x , we get tan2x= 1\u2212tan2x 17. sin 3x = 3 sin x \u2013 4 sin3 x We have, sin 3x = sin (2x + x) =sin 2x cos"
+  },
+  "99938817848129556": {
+    "meta": {
+      "id": "b47",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "paragraph",
+      "seq": 47,
+      "page": 22,
+      "chunk_start_word": 1160
+    },
+    "text": "an integer 1+tan2 x 2 We have sin (x + y) = sin x cos y + cos x sin y Replacing y by x, we get sin 2x = 2 sin x cos x. 2sinxcosx Again sin 2x = cos2 x+sin2x Reprint 2025-26 62 MATHEMATICS Dividing each term by cos2 x, we get 2tanx sin 2x = 1+tan2x 2tanx \u03c0 16. tan 2x = if 2x\u2260n\u03c0+ , where n is an integer 1\u2013tan2 x 2 We know that tanx+tany tan (x + y) = 1\u2013tanxtany 2 tanx Replacing y by x , we get tan2x= 1\u2212tan2x 17. sin 3x = 3 sin x \u2013 4 sin3 x We have, sin 3x = sin (2x + x) =sin 2x cos x + cos 2x sin x =2 sin x cos x cos x + (1 \u2013 2sin2x) sin x =2 sin x (1 \u2013 sin2x) + sin x \u2013 2 sin3x =2 sin x \u2013 2 sin3x + sin x \u2013 2 sin3x =3 sin x \u2013 4 sin3x 18. cos 3x= 4 cos3x \u2013 3 cos x We have, cos 3x = cos (2x +x) =cos 2x cos x \u2013 sin 2x sin x =(2cos2x \u2013 1) cos x \u2013 2sin x cos x sin x =(2cos2x \u2013 1) cos x \u2013 2cos x (1 \u2013 cos2x) =2cos3x \u2013 cos x \u2013 2cos x + 2 cos3x =4cos3x \u2013 3cos x. 3 tanx\u2013tan3 x \u03c0 19. tan3x= if 3x\u2260n\u03c0+ , where n is an integer 1\u20133tan2 x 2 We have tan 3x =tan (2x + x) 2tan x +tan x tan2x+tan x 1\u2013tan2 x = = 1\u2013tan2xtan x 2tan x.tan x 1\u2013 1\u2013tan2 x Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 63 2tan x+tan x\u2013 tan3x 3tan x \u2013tan3x = = 1\u2013 tan2x\u20132tan2x 1\u20133tan2x x+y x\u2013 y 20. (i) cos x + cos y = 2cos cos 2 2 x+y x\u2013 y (ii) cos x \u2013 cos y = \u2013 2sin sin 2 2 x+y x\u2013 y (iii) sin x + sin y = 2sin cos 2 2 x+y x\u2013 y (iv) sin x \u2013 sin y = 2cos sin 2 2 We know that cos (x + y) = cos x cos y \u2013 sin x sin y ... (1) and cos (x \u2013 y) = cos x cos y + sin x sin y ... (2) Adding and subtracting (1) and (2), we get cos (x + y) + cos(x \u2013 y) = 2 cos x cos y ... (3) and cos (x + y) \u2013 cos (x \u2013 y) = \u2013 2 sin x sin y ... (4) Further sin (x + y) = sin x cos y + cos x sin y ... (5) and sin (x \u2013 y) = sin x cos y \u2013 cos x sin y ... (6) Adding and subtracting (5) and (6), we get sin (x + y) + sin (x \u2013 y) = 2 sin x cos y ... (7) sin (x + y) \u2013 sin (x \u2013 y) = 2cos x sin y ... (8) Let x + y = \u03b8 and x \u2013 y = \u03c6. Therefore \uf8eb\u03b8+\u03c6\uf8f6 \uf8eb\u03b8\u2212\u03c6\uf8f6 x=\uf8ec \uf8f7andy=\uf8ec \uf8f7 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8 Substituting the values of x and y in (3), (4), (7) and (8), we get \uf8eb\u03b8+\u03c6\uf8f6 \uf8eb\u03b8\u2212\u03c6\uf8f6 cos \u03b8 + cos \u03c6 = 2 cos \uf8ec \uf8f7 cos \uf8ec \uf8f7 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8 \uf8eb\u03b8+\u03c6\uf8f6 \uf8eb\u03b8\u2013\u03c6\uf8f6 cos \u03b8 \u2013 cos \u03c6 = \u2013 2 sin \uf8ec \uf8f7sin\uf8ec \uf8f7 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8 \uf8eb\u03b8+\u03c6\uf8f6 \uf8eb\u03b8\u2212\u03c6\uf8f6 sin \u03b8 + sin \u03c6 = 2 sin \uf8ec \uf8f7cos\uf8ec \uf8f7 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8 Reprint 2025-26 64 MATHEMATICS \uf8eb\u03b8+\u03c6\uf8f6 \uf8eb\u03b8\u2212\u03c6\uf8f6 sin \u03b8 \u2013 sin \u03c6 = 2 cos \uf8ec \uf8f7sin \uf8ec \uf8f7 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8 Since \u03b8 and \u03c6 can take any real values, we can replace \u03b8 by x and \u03c6 by y. Thus, we get x+y x\u2212y x+y x\u2212y cos x + cos y = 2 cos cos ; cos x \u2013 cos y = \u2013 2 sin sin , 2 2 2 2 x+y x\u2212y x+y x\u2212y sin x + sin y = 2 sin cos ; sin x \u2013 sin y = 2 cos"
+  },
+  "3852776812398559002": {
+    "meta": {
+      "id": "b47",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "paragraph",
+      "seq": 47,
+      "page": 22,
+      "chunk_start_word": 1740
+    },
+    "text": "\uf8f8 \uf8ed 2 \uf8f8 \uf8eb\u03b8+\u03c6\uf8f6 \uf8eb\u03b8\u2212\u03c6\uf8f6 sin \u03b8 + sin \u03c6 = 2 sin \uf8ec \uf8f7cos\uf8ec \uf8f7 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8 Reprint 2025-26 64 MATHEMATICS \uf8eb\u03b8+\u03c6\uf8f6 \uf8eb\u03b8\u2212\u03c6\uf8f6 sin \u03b8 \u2013 sin \u03c6 = 2 cos \uf8ec \uf8f7sin \uf8ec \uf8f7 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8 Since \u03b8 and \u03c6 can take any real values, we can replace \u03b8 by x and \u03c6 by y. Thus, we get x+y x\u2212y x+y x\u2212y cos x + cos y = 2 cos cos ; cos x \u2013 cos y = \u2013 2 sin sin , 2 2 2 2 x+y x\u2212y x+y x\u2212y sin x + sin y = 2 sin cos ; sin x \u2013 sin y = 2 cos sin . 2 2 2 2 Remark As a part of identities given in 20, we can prove the following results: 21. (i) 2 cos x cos y = cos (x + y) + cos (x \u2013 y) (ii) \u20132 sin x sin y = cos (x + y) \u2013 cos (x \u2013 y) (iii) 2 sin x cos y = sin (x + y) + sin (x \u2013 y) (iv) 2 cos x sin y = sin (x + y) \u2013 sin (x \u2013 y)."
+  },
+  "1531705233242167825": {
+    "meta": {
+      "id": "b48",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 48,
+      "page": 22
+    },
+    "text": "Example 10 Prove that"
+  },
+  "4534416354577469998": {
+    "meta": {
+      "id": "b49",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 49,
+      "page": 22
+    },
+    "text": "\u03c0 \u03c0 5\u03c0 \u03c0\n3sin sec \u22124sin cot =1\n6 3 6 4\nSolution We have\n\u03c0 \u03c0 5\u03c0 \u03c0\nL.H.S. = 3sin sec \u22124sin cot\n6 3 6 4\n1 \uf8eb \u03c0 \uf8f6 \u03c0\n=3 \u00d7 \u00d7 2 \u2013 4 sin \uf8ec \u03c0\u2212 \uf8f7\u00d7 1 = 3 \u2013 4 sin\n2 \uf8ed 6 \uf8f8 6\n1\n=3 \u2013 4 \u00d7 = 1 = R.H.S.\n2"
+  },
+  "3201629641298372587": {
+    "meta": {
+      "id": "b50",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 50,
+      "page": 22
+    },
+    "text": "Example 11 Find the value of sin 15\u00b0."
+  },
+  "2879375201563414752": {
+    "meta": {
+      "id": "b51",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 51,
+      "page": 22
+    },
+    "text": "Solution We have\nsin 15\u00b0 = sin (45\u00b0 \u2013 30\u00b0)\n= sin 45\u00b0 cos 30\u00b0 \u2013 cos 45\u00b0 sin 30\u00b0\n1 3 1 1 3 \u20131\n= \u00d7 \u2212 \u00d7 = .\n2 2 2 2 2 2\n13\u03c0"
+  },
+  "1011295738548059910": {
+    "meta": {
+      "id": "b52",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 52,
+      "page": 22
+    },
+    "text": "Example 12 Find the value of tan ."
+  },
+  "1030769372948094710": {
+    "meta": {
+      "id": "b53",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 53,
+      "page": 23
+    },
+    "text": "12\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 65\nSolution We have\n13\u03c0 \uf8eb \u03c0 \uf8f6 \u03c0 \uf8eb\u03c0 \u03c0\uf8f6\ntan =tan \uf8ec\u03c0+ \uf8f7 = tan =tan\uf8ec \u2212 \uf8f7\n12 \uf8ed 12\uf8f8 12 \uf8ed4 6\uf8f8\n\u03c0 \u03c0 1\ntan \u2212tan 1\u2212\n4 6 3 3\u22121\n= = = =2\u2212 3\n\u03c0 \u03c0 1 3+1\n1+tan tan 1+\n4 6 3"
+  },
+  "1697010225169774557": {
+    "meta": {
+      "id": "b54",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 54,
+      "page": 23
+    },
+    "text": "Example 13 Prove that"
+  },
+  "4335282746243227100": {
+    "meta": {
+      "id": "b55",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 55,
+      "page": 23
+    },
+    "text": "sin(x+y) tanx+tany\n=\n.\nsin(x\u2212y) tanx\u2212tany\nSolution We have\nsin(x+y) sinxcosy+cosxsiny\n= =\nL.H.S.\nsin(x\u2212y) sinxcosy\u2212cosxsiny\nDividing the numerator and denominator by cos x cos y, we get\nsin(x+y) tanx+tany\n=\n.\nsin(x\u2212y) tanx\u2212tany"
+  },
+  "652780538459519271": {
+    "meta": {
+      "id": "b56",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 56,
+      "page": 23
+    },
+    "text": "Example 14 Show that"
+  },
+  "1219312307296404297": {
+    "meta": {
+      "id": "b57",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 57,
+      "page": 23
+    },
+    "text": "tan 3 x tan 2 x tan x = tan 3x \u2013 tan 2 x \u2013 tan x\nSolution We know that 3x = 2x + x\nTherefore, tan 3x = tan (2x + x)\ntan2x+tanx\ntan3x=\nor\n1\u2013tan 2xtanx\nor tan 3x \u2013 tan 3x tan 2x tan x = tan 2x + tan x\nor tan 3x \u2013 tan 2x \u2013 tan x = tan 3x tan 2x tan x\nor tan 3x tan 2x tan x = tan 3x \u2013 tan 2x \u2013 tan x."
+  },
+  "962129874834328371": {
+    "meta": {
+      "id": "b58",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 58,
+      "page": 23
+    },
+    "text": "Example 15 Prove that"
+  },
+  "774268880535195829": {
+    "meta": {
+      "id": "b59",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 59,
+      "page": 24
+    },
+    "text": "\uf8eb\u03c0 \uf8f6 \uf8eb\u03c0 \uf8f6\ncos\uf8ec +x\uf8f7+cos\uf8ec \u2212x\uf8f7= 2 cosx\n\uf8ed4 \uf8f8 \uf8ed4 \uf8f8\nSolution Using the Identity 20(i), we have\nReprint 2025-26\n66 MATHEMATICS\n\uf8eb\u03c0 \uf8f6 \uf8eb\u03c0 \uf8f6\nL.H.S. = cos\uf8ec +x\uf8f7+cos\uf8ec \u2212x\uf8f7\n\uf8ed4 \uf8f8 \uf8ed4 \uf8f8\n\uf8eb \u03c0 \u03c0 \uf8f6 \uf8eb \u03c0 \u03c0 \uf8f6\n+x+ \u2212x +x\u2013( \u2212x)\n\uf8ec \uf8f7 \uf8ec \uf8f7\n4 4 4 4\n=2cos\uf8ec \uf8f7cos\uf8ec \uf8f7\n2 2\n\uf8ec \uf8f7 \uf8ec \uf8f7\n\uf8ec \uf8f7 \uf8ec \uf8f7\n\uf8ed \uf8f8 \uf8ed \uf8f8\n\u03c0 1\n= 2 cos cos x = 2 \u00d7 cos x = 2 cos x = R.H.S.\n4 2\ncos7x+cos5x\n=cot x"
+  },
+  "626819632733146683": {
+    "meta": {
+      "id": "b60",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 60,
+      "page": 24
+    },
+    "text": "Example 16 Prove that"
+  },
+  "3418374608768985049": {
+    "meta": {
+      "id": "b61",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 61,
+      "page": 24
+    },
+    "text": "sin7x\u2013sin5x\nSolution Using the Identities 20 (i) and 20 (iv), we get\n7x+5x 7x\u22125x\n2cos cos\ncosx\n2 2\nL.H.S. = = = cotx = R.H.S.\n7x+5x 7x\u22125x sinx\n2cos sin\n2 2\nsin5x\u22122sin3x+sinx"
+  },
+  "1182241816038167928": {
+    "meta": {
+      "id": "b62",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 62,
+      "page": 24
+    },
+    "text": "Example 17 Prove that = =tanx"
+  },
+  "345930679082014917": {
+    "meta": {
+      "id": "b63",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 63,
+      "page": 25
+    },
+    "text": "cos5x\u2212cosx\nSolution We have\nsin5x\u22122sin3x+sinx sin5x+sinx\u22122sin3x\nL.H.S. = =\ncos5x\u2212cosx cos5x\u2212cosx\n2sin3x cos2x\u22122sin3x sin3x (cos2x\u22121)\n= =\u2013\n\u20132sin3xsin2x sin3xsin2x\n1\u2212cos2x 2sin2x\n= = = tan x = R.H.S.\nsin2x 2sinxcosx\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 67"
+  },
+  "3514561698967763293": {
+    "meta": {
+      "id": "b64",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "exercise_title",
+      "seq": 64,
+      "page": 25
+    },
+    "text": "EXERCISE 3.3"
+  },
+  "2939470176036187175": {
+    "meta": {
+      "id": "b65",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "exercise",
+      "seq": 65,
+      "page": 26
+    },
+    "text": "Prove that:\n\u03c0 \u03c0 \u03c0 1 \u03c0 7\u03c0 \u03c0 3\n1. sin2 + cos2 \u2013 tan2 =\u2013 2. 2sin2 + cosec2 cos2 =\n6 3 4 2 6 6 3 2\n\u03c0 5\u03c0 \u03c0 3\u03c0 \u03c0 \u03c0\n3. cot2 +cosec +3tan2 =6 4. 2sin2 +2cos2 +2sec2 =10\n6 6 6 4 4 3\n5. Find the value of:\n(i) sin 75\u00b0 (ii) tan 15\u00b0\nProve the following:\n\uf8eb\u03c0 \uf8f6 \uf8eb\u03c0 \uf8f6 \uf8eb\u03c0 \uf8f6 \uf8eb\u03c0 \uf8f6\n6. cos \uf8ec \u2212x \uf8f7 cos \uf8ec \u2212 y \uf8f7 \u2212sin \uf8ec \u2212x \uf8f7 sin \uf8ec \u2212 y \uf8f7 =sin(x+y)\n\uf8ed4 \uf8f8 \uf8ed4 \uf8f8 \uf8ed4 \uf8f8 \uf8ed4 \uf8f8\n\uf8eb\u03c0 \uf8f6\ntan \uf8ec +x\uf8f7 2\n7. \uf8ed4 \uf8f8 = \uf8eb \uf8ec 1+tan x\uf8f6 \uf8f7 8. cos (\u03c0+x) cos(\u2212x) = cot2x\n\uf8eb\u03c0 \uf8f6 \uf8ed1\u2212tan x\uf8f8 \uf8eb\u03c0 \uf8f6\ntan \uf8ec \u2212x\uf8f7 sin (\u03c0\u2212x) cos \uf8ec +x\uf8f7\n\uf8ed4 \uf8f8 \uf8ed2 \uf8f8\n\uf8eb3\u03c0 \uf8f6 \uf8ee \uf8eb3\u03c0 \uf8f6 \uf8f9\n9. cos \uf8ec +x \uf8f7 cos (2\u03c0+x) \uf8ef cot \uf8ec \u2212x \uf8f7 +cot (2\u03c0+x) \uf8fa = 1\n\uf8ed 2 \uf8f8 \uf8f0 \uf8ed 2 \uf8f8 \uf8fb\n10. sin (n + 1)x sin (n + 2)x + cos (n + 1)x cos (n + 2)x = cos x\n\uf8eb3\u03c0 \uf8f6 \uf8eb3\u03c0 \uf8f6\n11. cos \uf8ec +x \uf8f7 \u2212cos \uf8ec \u2212x \uf8f7 = \u2212 2sin x\n\uf8ed 4 \uf8f8 \uf8ed 4 \uf8f8\n12. sin2 6x \u2013 sin2 4x = sin 2x sin 10x 13. cos2 2x \u2013 cos2 6x = sin 4x sin 8x\n14. sin2 x + 2 sin 4x + sin 6x = 4 cos2 x sin 4x\n15. cot 4x (sin 5x + sin 3x) = cot x (sin 5x \u2013 sin 3x)\ncos9x\u2212cos5x sin2x sin5x+sin3x\n16. = \u2212 17. =tan4x\nsin17x\u2212sin3x cos10x cos5x+cos3x\nsinx\u2212siny x\u2212 y sinx+sin3x\n18. = tan 19. = tan2x\ncosx+cosy 2 cosx+cos3x\nsinx\u2212sin3x cos4x+cos3x+cos2x\n20. = 2sinx 21. = cot3x\nsin2 x\u2212cos2 x sin4x+sin3x+sin2x\nReprint 2025-26\n68 MATHEMATICS\n22. cot x cot 2x \u2013 cot 2x cot 3x \u2013 cot 3x cot x = 1\n4tan x(1\u2212tan2x)\n23. tan4x = 24. cos 4x = 1 \u2013 8sin2 x cos2 x\n1\u22126tan2x+tan4x\n25. cos 6x = 32 cos6 x \u2013 48cos4 x + 18 cos2 x \u2013 1\nMiscellaneous Examples\n3 12"
+  },
+  "1398449351015030232": {
+    "meta": {
+      "id": "b66",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 66,
+      "page": 26
+    },
+    "text": "Example 18 If sin x = , cos y = \u2212 , where x and y both lie in second quadrant,"
+  },
+  "2514230526503514009": {
+    "meta": {
+      "id": "b67",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 67,
+      "page": 26
+    },
+    "text": "5 13\nfind the value of sin (x + y).\nSolution We know that\nsin (x + y) = sin x cos y + cos x sin y ... (1)\n9 16\nNow cos2 x= 1 \u2013 sin2 x = 1 \u2013 =\n25 25\n4\nTherefore cos x = \u00b1 .\n5\nSince x lies in second quadrant, cos x is negative.\n4\nHence cos x = \u2212\n5\n144 25\nNow sin2y = 1 \u2013 cos2y = 1 \u2013 =\n169 169\n5\ni.e. sin y = \u00b1 .\n13\n5\nSince y lies in second quadrant, hence sin y is positive. Therefore, sin y = . Substituting\n13\nthe values of sin x, sin y, cos x and cos y in (1), we get\n3 \uf8eb 12\uf8f6 \uf8eb 4\uf8f6 5 36 20 56\nsin(x+ y) = \u00d7\uf8ec\u2212 \uf8f7+\uf8ec\u2212 \uf8f7\u00d7 = \u2212 \u2212 =\u2212 .\n5 \uf8ed 13\uf8f8 \uf8ed 5\uf8f8 13 65 65 65"
+  },
+  "3147226703880689743": {
+    "meta": {
+      "id": "b68",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 68,
+      "page": 26
+    },
+    "text": "Example 19 Prove that"
+  },
+  "1810328899732159270": {
+    "meta": {
+      "id": "b69",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 69,
+      "page": 27
+    },
+    "text": "x 9x 5x\ncos2x cos \u2212cos3xcos =sin5xsin .\n2 2 2\nSolution We have\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 69\n1 \uf8ee x 9x \uf8f9\nL.H.S. = \uf8ef 2cos2xcos \u22122cos cos3x \uf8fa\n2 \uf8f0 2 2 \uf8fb\n1\uf8ee \uf8eb x\uf8f6 \uf8eb x\uf8f6 \uf8eb9x \uf8f6 \uf8eb9x \uf8f6\uf8f9\n= \uf8ef cos\uf8ec2x+ \uf8f7+cos\uf8ec2x\u2212 \uf8f7\u2212cos\uf8ec +3x\uf8f7\u2212cos\uf8ec \u22123x\uf8f7\uf8fa\n2\uf8f0 \uf8ed 2\uf8f8 \uf8ed 2\uf8f8 \uf8ed 2 \uf8f8 \uf8ed 2 \uf8f8\uf8fb\n1\uf8ee 5x 3x 15x 3x\uf8f9 1\uf8ee 5x 15x\uf8f9\n= \uf8ef cos +cos \u2212cos \u2212cos \uf8fa = \uf8ef cos \u2212cos \uf8fa\n2\uf8f0 2 2 2 2 \uf8fb 2\uf8f0 2 2 \uf8fb\n\uf8ee \uf8f15x 15x\uf8fc \uf8f15x 15x\uf8fc\uf8f9\n+ \u2212\n1\uf8ef \uf8f4\n2 2\n\uf8f4 \uf8f4\n2 2\n\uf8f4\uf8fa\n\uf8ef\u22122sin\uf8f2 \uf8fdsin\uf8f2 \uf8fd\uf8fa\n= 2 2 2\n\uf8ef \uf8f4 \uf8f4 \uf8f4 \uf8f4\uf8fa\n\uf8ef\uf8f0 \uf8f3 \uf8fe \uf8f3 \uf8fe\uf8fa\uf8fb\n\uf8eb 5x\uf8f6 5x\n= \u2212sin5x sin\uf8ec\u2212 \uf8f7 = sin5x sin = R.H.S.\n\uf8ed 2 \uf8f8 2\n\u03c0"
+  },
+  "265191075594138674": {
+    "meta": {
+      "id": "b70",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 70,
+      "page": 27
+    },
+    "text": "Example 20 Find the value of tan ."
+  },
+  "2817890566228858704": {
+    "meta": {
+      "id": "b71",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 71,
+      "page": 28
+    },
+    "text": "8\n\u03c0 \u03c0\nSolution Let x = . Then 2x = .\n8 4\n2tanx\nNow tan2x =\n1\u2212tan2 x\n\u03c0\n2tan\n\u03c0 8\ntan =\nor 4 \u03c0\n1\u2212tan2\n8\n\u03c0 2y\nLet y = tan . Then 1 =\n8 1\u2212 y2\nor y2 + 2y \u2013 1 = 0\n\u22122\u00b12 2\nTherefore y = = \u22121\u00b1 2\n2\nReprint 2025-26\n70 MATHEMATICS\n\u03c0 \u03c0\nSince lies in the first quadrant, y = tan is positve. Hence\n8 8\n\u03c0\ntan = 2\u22121.\n8\n3 3\u03c0 x x x"
+  },
+  "1337699556232659675": {
+    "meta": {
+      "id": "b72",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 72,
+      "page": 28
+    },
+    "text": "Example 21 If tan x= ,\u03c0<x< , find the value of sin , cos and tan ."
+  },
+  "347377193662249811": {
+    "meta": {
+      "id": "b73",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 73,
+      "page": 29
+    },
+    "text": "4 2 2 2 2\n3\u03c0\nSolution Since \u03c0< x< , cosx is negative.\n2\n\u03c0 x 3\u03c0\nAlso < < .\n2 2 4\nx x\nTherefore, sin is positive and cos is negative.\n2 2\n9 25\nNow sec2 x = 1 + tan2 x = 1+ =\n16 16\n16 4\nTherefore cos2 x = or cos x = \u2013 (Why?)\n25 5\nx 4 9\nNow 2sin2 = 1 \u2013 cos x = 1+ = .\n2 5 5\nx 9\nTherefore sin2 =\n2 10\nx 3\nor sin = (Why?)\n2 10\nx 4 1\nAgain 2cos2 = 1+ cos x = 1\u2212 =\n2 5 5\nx 1\nTherefore cos2 =\n2 10\nx 1\nor cos = \u2212 (Why?)\n2 10\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 71\nx\nsin\nx 2 3 \uf8eb\u2212 10\uf8f6\nHence tan = = \u00d7\uf8ec \uf8f7 = \u2013 3.\n2 x 10 \uf8ed 1 \uf8f8\ncos\n2\n\uf8eb \u03c0\uf8f6 \uf8eb \u03c0\uf8f6 3"
+  },
+  "1094717565173728812": {
+    "meta": {
+      "id": "b74",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_title",
+      "seq": 74,
+      "page": 29
+    },
+    "text": "Example 22 Prove that cos2 x + cos2 \uf8ecx+ \uf8f7+cos2 \uf8ecx\u2212 \uf8f7 = ."
+  },
+  "3770371998852659125": {
+    "meta": {
+      "id": "b75",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "example_body",
+      "seq": 75,
+      "page": 29
+    },
+    "text": "\uf8ed 3\uf8f8 \uf8ed 3\uf8f8 2\nSolution We have\n\uf8eb 2\u03c0\uf8f6 \uf8eb 2\u03c0\uf8f6\n1+cos\uf8ec2x+ \uf8f7 1+cos\uf8ec2x\u2212 \uf8f7\nL.H.S. = 1+cos2x \uf8ed 3 \uf8f8 \uf8ed 3 \uf8f8 .\n+ +\n2 2 2\n1\uf8ee \uf8eb 2\u03c0\uf8f6 \uf8eb 2\u03c0\uf8f6\uf8f9\n= \uf8ef 3+cos2x+cos\uf8ec2x+ \uf8f7+cos\uf8ec2x\u2212 \uf8f7\uf8fa\n2\uf8f0 \uf8ed 3 \uf8f8 \uf8ed 3 \uf8f8\uf8fb\n1\uf8ee 2\u03c0\uf8f9\n= \uf8ef 3+cos2x+2cos2x cos \uf8fa\n2\uf8f0 3 \uf8fb\n1\uf8ee \uf8eb \u03c0\uf8f6\uf8f9\n= \uf8ef 3+cos2x+2cos2x cos\uf8ec\u03c0\u2212 \uf8f7\uf8fa\n2\uf8f0 \uf8ed 3\uf8f8\uf8fb\n1\uf8ee \u03c0\uf8f9\n= \uf8ef 3+cos2x\u22122cos2x cos \uf8fa\n2\uf8f0 3\uf8fb\n1 3\n=\n[3+cos2x\u2212cos2x]=\n= R.H.S.\n2 2"
+  },
+  "349610114638847809": {
+    "meta": {
+      "id": "b76",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "exercise_title",
+      "seq": 76,
+      "page": 29
+    },
+    "text": "Miscellaneous Exercise on Chapter 3"
+  },
+  "2265865315885160314": {
+    "meta": {
+      "id": "b77",
+      "subject": "maths",
+      "class_": 12,
+      "chapter": null,
+      "section": "3.4",
+      "type": "exercise",
+      "seq": 77,
+      "page": 33
+    },
+    "text": "Prove that:\n\u03c0 9\u03c0 3\u03c0 5\u03c0\n1. 2cos cos +cos +cos =0\n13 13 13 13\n2. (sin 3x + sin x) sin x + (cos 3x \u2013 cos x) cos x = 0\nx+ y\n3. (cos x + cos y)2 + (sin x \u2013 sin y)2 = 4 cos2\n2\nReprint 2025-26\n72 MATHEMATICS\nx - y\n4. (cosx\u2013 cos y)2 + (sinx\u2013 sin y)2 = 4 sin2\n2\n5. sin x + sin 3x + sin 5x + sin 7x = 4 cos x cos 2x sin 4x\n(sin7x +sin5x)+(sin9x +sin3x)\n66666..... = tan6x\n(cos7x +cos5x)+(cos9x +cos3x)\nx 3x\n7. sin 3x + sin 2x \u2013 sin x = 4sin x cos cos\n2 2\nx x x\nFind sin , cos and tan in each of the following :\n2 2 2\n4 1\n8. tanx = \u2212 , x in quadrant II 9. cos x = \u2212 , x in quadrant III\n3 3\n1\n10. sinx = , xin quadrant II\n4\nSummary\n\u00ae\nIf in a circle of radius r, an arc of length l subtends an angle of \u03b8 radians, then\nl = r \u03b8\n\u03c0\n\u00ae Radian measure = \u00d7 Degree measure\n180\n180\n\u00ae Degree measure = \u00d7 Radian measure\n\u03c0\n\u00ae\ncos2 x + sin2 x = 1\n\u00ae\n1 + tan2 x = sec2 x\n\u00ae\n1 + cot2 x = cosec2 x\n\u00ae\ncos (2n\u03c0 + x) = cos x\n\u00ae\nsin (2n\u03c0 + x) = sin x\n\u00ae\nsin (\u2013 x) = \u2013 sin x\n\u00ae\ncos (\u2013 x) = cos x\n\u00ae\ncos (x + y) = cos x cos y \u2013 sin x sin y\n\u00ae\ncos (x \u2013 y) = cos x cos y + sin x sin y\n\u03c0\n\u00ae cos ( \u2212x) = sin x\n2\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 73\n\u03c0\n\u00ae sin ( \u2212x) = cos x\n2\n\u00ae\nsin (x + y) = sin x cos y + cos x sin y\n\u00ae\nsin (x \u2013 y) = sin x cos y \u2013 cos x sin y\n\uf8eb\u03c0 \uf8f6 \uf8eb\u03c0 \uf8f6\n\u00ae cos \uf8ec +x\uf8f7= \u2013 sin x sin \uf8ec +x\uf8f7 = cos x\n\uf8ed2 \uf8f8 \uf8ed2 \uf8f8\ncos (\u03c0 \u2013 x) = \u2013 cos x sin (\u03c0 \u2013 x) = sin x\ncos (\u03c0 + x) = \u2013 cos x sin (\u03c0 + x) = \u2013 sin x\ncos (2\u03c0 \u2013 x) = cos x sin (2\u03c0 \u2013 x) = \u2013 sin x\n\u03c0\n\u00ae\nIf none of the angles x, y and (x \u00b1 y) is an odd multiple of , then\n2\ntanx+tany\ntan (x + y) =\n1\u2212tanxtany\ntanx\u2212tany\n\u00ae\ntan (x \u2013 y) =\n1+tanxtany\n\u00ae\nIf none of the angles x, y and (x \u00b1 y) is a multiple of \u03c0, then\ncot xcot y\u22121\ncot (x + y) =\ncot y+cot x\ncotxcoty+1\n\u00ae\ncot (x \u2013 y) =\ncoty - cotx\n1\u2013tan2x\n\u00ae cos 2x = cos2 x \u2013 sin2 x = 2cos2 x \u2013 1 = 1 \u2013 2 sin2 x =\n1+tan2x\n2tan x\n\u00ae sin 2x = 2 sinx cos x =\n1+tan2x\n2tanx\n\u00ae\ntan 2x =\n1\u2212tan2x\n\u00ae sin 3x = 3sinx \u2013 4sin3x\n\u00ae cos 3x = 4cos3x \u2013 3cosx\nReprint 2025-26\n74 MATHEMATICS\n3tanx\u2212tan3x\n\u00ae\ntan 3x =\n1\u22123tan2x\nx+y x\u2212y\n\u00ae (i) cos x + cos y = 2cos cos\n2 2\nx+y x\u2212y\n(ii) cos x \u2013 cos y = \u2013 2sin sin\n2 2\nx+y x\u2212y\n(iii) sin x + sin y = 2 sin cos\n2 2\nx+y x\u2212y\n(iv) sin x \u2013 sin y = 2cos sin\n2 2\n\u00ae\n(i) 2cos x cos y = cos (x+ y) + cos (x\u2013 y)\n(ii) \u2013 2sin x sin y = cos (x + y) \u2013 cos (x \u2013 y)\n(iii) 2sin x cos y = sin (x + y) + sin (x \u2013 y)\n(iv) 2 cos x sin y = sin (x + y) \u2013 sin (x \u2013 y).\nHistorical Note\nThe study of trigonometry was first started in India. The ancient Indian\nMathematicians, Aryabhatta (476), Brahmagupta (598), Bhaskara I (600) and\nBhaskara II (1114) got important results. All this knowledge first went from\nIndia to middle-east and from there to Europe. The Greeks had also started the\nstudy of trigonometry but their approach was so clumsy that when the Indian\napproach became known, it was immediately adopted throughout the world.\nIn India, the predecessor of the modern trigonometric functions, known as\nthe sine of an angle, and the introduction of the sine function represents the main\ncontribution of the siddhantas (Sanskrit astronomical works) to the history of\nmathematics.\nBhaskara I (about 600) gave formulae to find the values of sine functions\nfor angles more than 90\u00b0. A sixteenth century Malayalam work Yuktibhasa\n(period) contains a proof for the expansion of sin (A + B). Exact expression for\nsines or cosines of 18\u00b0, 36\u00b0, 54\u00b0, 72\u00b0, etc., are given by\nBhaskara II.\nReprint 2025-26\nTRIGONOMETRIC FUNCTIONS 75\nThe symbols sin\u20131 x, cos\u20131 x, etc., for arc sin x, arc cos x, etc., were\nsuggested by the astronomer Sir John F.W. Hersehel (1813) The names of Thales\n(about 600 B.C.) is invariably associated with height and distance problems. He\nis credited with the determination of the height of a great pyramid in Egypt by\nmeasuring shadows of the pyramid and an auxiliary staff (or gnomon) of known\nheight, and comparing the ratios:\nH h\n= = tan (sun\u2019s altitude)\nS s\nThales is also said to have calculated the distance of a ship at sea through\nthe proportionality of sides of similar triangles. Problems on height and distance\nusing the similarity property are also found in ancient Indian works.\n\u2014 vvvvv \u2014\nReprint 2025-26"
+  }
+}

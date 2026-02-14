@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+transformers>=4.30.0
+torch           # or torch.cuda if you use GPU wheels
+faiss-cpu
+elasticsearch>=8.0.0
+sentence-transformers
+pdfplumber
+pydantic
+tqdm
+regex
